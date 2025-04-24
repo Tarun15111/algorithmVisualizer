@@ -6,7 +6,7 @@
 
 - Open the URL: https://eswarbenarjee.in/algorithmVisualizer
 - Select the algorithm you want to visualize.
-
+- Select the type of Sorting alog you want to see:
 ### Tech Stack used:
 
 - Javascript
